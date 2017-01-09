@@ -1,3 +1,6 @@
 
 ScaleOut Object Report Generator
 Copyright 2016 ScaleOut Software, Inc.
+
+This utility uses the Math.NET numerics library:
+Copyright (c) 2002-2015 Math.NET
